@@ -1,2 +1,2 @@
 # pacman-eisine
-Un Jeu pacman réalisé en c++ avec la bibliothème SFML pour un projet de l2
+Un Jeu pacman réalisé en c++ avec la bibliothème SFML pour un projet de l2 science pour l'ingénieur
